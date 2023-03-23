@@ -1,6 +1,6 @@
 ### Hello world. I'm Diogo ! 🗿 🚀
 
-![Diogo github stats](https://github-readme-stats.vercel.app/api?username=jdgoes&show_icons=true&theme=merko)
+![Diogo github stats](https://github-readme-stats.vercel.app/api?username=jdgoes&show_icons=true&theme=dracula)
 
 ### Social Media 🪐
 
