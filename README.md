@@ -1,6 +1,6 @@
 ### Hello world. I'm Diogo ! 🗿 🚀
 
-![gif]([https://github-readme-stats.vercel.app/api?username=jdgoes&show_icons=true&theme=tokyonight](https://www.icegif.com/wp-content/uploads/aesthetic-icegif-23.gif))
+![Diogo GitHub Stats](https://www.icegif.com/wp-content/uploads/aesthetic-icegif-23.gif)
 
 ### Social Media 🪐
 
