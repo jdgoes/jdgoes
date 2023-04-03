@@ -4,12 +4,12 @@
 
 ### Social Media 🪐
 
-[![Blog](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF007F)](https://www.instagram.com/diogogoesj/)
-[![Blog](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0000FF)](https://www.linkedin.com/in/jdgoes/)
+[![Blog](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=FF007F)](https://www.instagram.com/diogogoesj/)
+[![Blog](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0000FF)](https://www.linkedin.com/in/jdgoes/)
 
 ### Learning Technologies 🚀
 <div style="display: inline_block">
-<img align="center" alt="java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FF0000" />
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF4500" />
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=0000FF" />
+<img align="center" alt="java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=FF0000" />
+<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=FF4500" />
+<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=0000FF" />
