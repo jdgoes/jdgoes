@@ -4,8 +4,8 @@
 
 ### Social Media 🪐
 
-[![Blog](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=FF007F)](https://www.instagram.com/diogogoesj/)
-[![Blog](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0000FF)](https://www.linkedin.com/in/jdgoes/)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diogogoesj/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jdgoes/)
 
 ### Learning Technologies 🚀
 <div style="display: inline_block">
