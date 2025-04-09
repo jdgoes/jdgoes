@@ -12,5 +12,5 @@ A 21-year-old student pursuing a Technologist degree in Systems Analysis and Dev
 ##
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jdgoes&show_icons=true&theme=dark" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogogoesj&show_icons=true&theme=dark&layout=compact" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdgoes&show_icons=true&theme=dark&layout=compact" />
 </div>
