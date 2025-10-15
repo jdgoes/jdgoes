@@ -6,7 +6,7 @@
 
 ## Overview
 
-A 21-year-old student pursuing a Technologist degree in Systems Analysis and Development at PUCPR. If you're interested in working together or discussing technology, feel free to reach out.
+A 22-year-old student pursuing a Technologist degree in Systems Analysis and Development at PUCPR. If you're interested in working together or discussing technology, feel free to reach out.
 
 **Contact**: [LinkedIn Profile](https://www.linkedin.com/in/diogogoesj/)
 ##
